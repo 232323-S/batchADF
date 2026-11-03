@@ -1,0 +1,15 @@
+{
+	"name": "gitAdf23L",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "indiasouthcentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1242ac98-9942-43bc-8755-8e26788e548b",
+		"tenantId": "7a8f2fd7-e477-4e54-8814-984a22cc2539"
+	}
+}
